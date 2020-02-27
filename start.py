@@ -69,3 +69,5 @@ def pow():
 from math import *
 import math as m
 
+print(m.pow(e,10))
+
